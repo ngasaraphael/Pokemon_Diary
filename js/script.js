@@ -50,7 +50,6 @@ let pokemonRepository = (function () {
           };
 
           add(pokemon);
-          loadDetails(pokemon);
 
           //end loading gif
           function hideLoadingMessage() {

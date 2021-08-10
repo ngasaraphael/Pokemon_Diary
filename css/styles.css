@@ -94,7 +94,7 @@ header {
 
 .pokemon-list li {
   list-style: none;
-  margin-left: 20px;
+  margin: 0 10px 10px 10px;
 }
 
 .loading {
